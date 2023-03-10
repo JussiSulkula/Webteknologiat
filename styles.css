@@ -2,7 +2,8 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-fieldset {
+fieldset 
+{
     background-color: olive;
     border-radius: 10px;
     border-style: dashed;
@@ -11,15 +12,27 @@ fieldset {
 
 }
 
-legend {
+legend 
+{
     font-size: 1.5rem;
     font-weight: bold;
     letter-spacing: 3px;
 
 }
 
-input {
+input
+{
     border-radius: 5px;
     border-width: 1px;
     background-color: chocolate;
+}
+input:focus
+{
+    background-color: aqua;
+    
+}
+input[type="file"]
+{
+    background-color: inherit;
+
 }
