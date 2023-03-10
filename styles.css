@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+fieldset {
+    background-color: olive;
+    border-radius: 10px;
+    border-style: dashed;
+    border-style: dotted;
+    border-color: blueviolet;
+
+}
+
+legend {
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 3px;
+
+}
+
+input {
+    border-radius: 5px;
+    border-width: 1px;
+    background-color: chocolate;
+}
