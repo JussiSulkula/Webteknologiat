@@ -4,11 +4,11 @@ body {
 
 fieldset 
 {
-    background-color: olive;
+    background-color: red;
     border-radius: 10px;
     border-style: dashed;
     border-style: dotted;
-    border-color: blueviolet;
+    border-color: violet;
 
 }
 
@@ -24,7 +24,7 @@ input
 {
     border-radius: 5px;
     border-width: 1px;
-    background-color: chocolate;
+    background-color: yellowgreen;
 }
 input:focus
 {
