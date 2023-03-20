@@ -1,8 +1,48 @@
 body {
     font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+   
 
 }
+.kurssi-otsikko {
+    background-color: blue;
+    padding: 80px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Main{
+    text-align: center;
+    justify-content: center;
+    background-color: cadetblue;
+    margin-right: 50px;
+    padding: 120px;
+   
+}
 
-.container {
-    
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darkmagenta;
+    font-size: smaller;
+}
+.h3{
+    background-color: yellow;
+    font-size: larger;
+    color:violet;
+}
+.h4{
+    font-size: larger;
+    background-color: fuchsia;
+}
+.Extra-teksti{
+    color: blue;
+    text-align: start;
 }
