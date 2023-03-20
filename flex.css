@@ -1,5 +1,5 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-image: url('https://metsiensuomi.fi/75-prosenttia-suomen-pinta-alasta-on-metsaa/#059d82eb');
     background-repeat: no-repeat;
 
@@ -49,4 +49,40 @@ p {
     justify-content: space-between;
     margin-top: 3px;
     margin-bottom: 3px;
+}
+.Contact{
+    background-color: blue;
+    color: yellow;
+
+}
+.FeedBack{
+    background-color: darkred;
+    color: purple;
+}
+.Lomake-rivi{
+    margin: 15px 0;
+    width: 30%;
+}
+label{
+    font-weight: bold;
+    margin-right: 10px;
+}
+legend{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+input {
+    border-radius: 20px;
+    border: 7px solid #352;
+    padding: 30px
+}
+input[type="submit"]{
+    background-color: gold;
+}
+input[type="file"]{
+    background-color: magenta;
+    width: 75%;
+    text-align: center;
+    
 }
