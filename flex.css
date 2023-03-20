@@ -53,6 +53,8 @@ p {
 .Contact{
     background-color: blue;
     color: yellow;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 .FeedBack{
@@ -62,6 +64,7 @@ p {
 .Lomake-rivi{
     margin: 15px 0;
     width: 30%;
+    padding-left: 0%;
 }
 label{
     font-weight: bold;
@@ -79,10 +82,12 @@ input {
 }
 input[type="submit"]{
     background-color: gold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 input[type="file"]{
     background-color: magenta;
     width: 75%;
     text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
