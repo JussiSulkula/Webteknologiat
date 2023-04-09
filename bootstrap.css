@@ -1,9 +1,101 @@
-.col-6{
-    border-color: blue;
-    border-width: 2px;
-    border-style: dashed;
-}
-.container{
-    margin-top: 60px;
+.navbar-brand{ 
+ color: black; 
+background-color: yellow; 
+justify-content: left; 
+} 
     
-}
+     
+    
+.container{ 
+    background-color: yellow; 
+    border-radius: 3px; 
+    justify-content: start; 
+    } 
+    
+.nav-link{ 
+    background-color: yellow; 
+    color:black 
+    
+    } 
+    
+.container1{ 
+    text-align: center; 
+    background-color: black; 
+    
+    } 
+    
+.card { 
+    background-color: #fff; 
+    border: 1px solid #ccc; 
+    border-radius: 15px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+    padding: 20px; 
+    margin-bottom: 20px; 
+    justify-content: space-around; 
+    } 
+      
+    
+.card-text1 { 
+    font-size: 1rem; 
+    line-height: 1.5; 
+    color: #666; 
+    margin-bottom: 10px; 
+    font-weight: bold; 
+    } 
+    
+.card-title2 { 
+    font-size: 1.2rem; 
+    font-weight: bold; 
+     margin-bottom: 60px; 
+    color: violet; 
+    }
+.card-title3 { 
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+    color:green; 
+    }
+.card-title4 { 
+font-size: 1.2rem; 
+    font-weight: bold; 
+    margin-bottom: 20px; 
+    color: blue; 
+    }
+.card-title5 { 
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    margin-bottom: 15px; 
+    color: yellowgreen; 
+    }
+.card-title6 { 
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+    color: crimson; 
+    } 
+    
+.card-title7 { 
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    margin-bottom: 5px; 
+    color: crimson; 
+    }
+.card-title8 { 
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    margin-bottom: 5px; 
+    color:orangered; 
+     } 
+    
+body{ 
+     background-color: black; 
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fopiskelukoulu.fi%2Fkoodaus%2F&psig=AOvVaw1DqU1AATc-rGjG48udxmhq&ust=1681157907699000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKC4-LDPnf4CFQAAAAAdAAAAABAE"); 
+}  
+textarea{ 
+    justify-content: center; 
+    text-align: center; 
+    margin: 3px; 
+    padding: auto;  
+    width: 5px; 
+    background-color: yellow; 
+    } 
